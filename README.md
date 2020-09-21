@@ -7,7 +7,7 @@ You can find the most recent version of this guide [here](https://github.com/fac
 You need to have nodejs installed on your machine. If you don’t, please go to [here](https://nodejs.org) and download the latest version. We need this because we use npm (node package manager) to manage all the dependencies and packages we use in our project.
 
 ## How to run the App
-Simply go to the directory name userlist on your local machine.
+Simply go to the directory name userlist-new1 on your local machine.
 #### `cd userlist-new1`
 
 In the project directory, you need to first install npm and then json-server on one terminal:
