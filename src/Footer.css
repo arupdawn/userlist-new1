@@ -1,0 +1,14 @@
+footer {
+  color: white;
+  padding: 15px 25px;
+  background-color: rgba(0, 0, 0, 0.767);
+  background-size: cover;
+  width: 100%;
+  display: inline-block;
+  font-family: "Baloo 2", cursive;
+  font-size: 17px;
+}
+
+.footer {
+  text-align: center;
+}

@@ -1,0 +1,12 @@
+.app {
+  background-color: rgba(185, 76, 3, 0.671);
+  background-image: url("./Photos/pexels-bongkarn-thanyakij-3759098.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.app__inner {
+  background-color: rgba(197, 206, 209, 0.411);
+}

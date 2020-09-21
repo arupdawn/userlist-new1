@@ -1,0 +1,103 @@
+.user__content {
+  display: inline-block;
+  padding: 30px 80px;
+  width: 650px;
+  border-radius: 7px;
+  text-align: left;
+  background-color: rgb(255, 250, 250);
+  margin-top: 30px;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+}
+
+.user__infoTop {
+  display: flex;
+  margin-bottom: -15px;
+}
+
+.user__infoTop > img {
+  border-radius: 40px;
+  height: 80px;
+}
+
+.user__briefInfo {
+  margin-left: 30px;
+}
+
+.user__briefInfo > h5 {
+  margin-bottom: 2px;
+  font-size: 25px;
+}
+
+.user__briefInfo > a {
+  color: rgb(15, 158, 194);
+}
+
+.user__seen {
+  font-size: 14px;
+  color: rgb(5, 155, 72);
+  margin-bottom: 4px;
+}
+
+.user__location {
+  font-weight: 600;
+}
+
+.collapse p {
+  font-size: 17px;
+}
+
+.user__lastActive {
+  font-size: 19px;
+  margin-right: 4px;
+}
+
+.user__activityCheck {
+  font-size: 19px;
+  margin-right: 4px;
+}
+
+.user__date {
+  font-size: 16px;
+  margin-bottom: 13px;
+}
+
+.user__message {
+  display: none;
+  font-size: 17px;
+  margin-bottom: 15px;
+}
+
+.btn-danger {
+  width: 100px;
+}
+
+@media only screen and (max-width: 426px) {
+  .user__content{
+    width: 99%;
+    padding: 20px 10px;
+  }
+  .user__briefInfo{
+    margin-left: 10px;
+  }
+  .user__lastActive{
+    font-size: 17px;
+  }
+  .collapse{
+    margin-top:-20px;
+    margin-left: 10px;
+  }
+  .user__activityCheck{
+    font-size: 17px;
+  }
+  .user__date{
+    font-size: 13px;
+    margin-bottom: 13px;
+  }
+  .user__message{
+    font-size: 15px;
+  }
+  .collapse > p{
+    font-size: 16px;
+  }
+    
+}
