@@ -17,8 +17,8 @@ In the project directory, you need to first install npm and then json-server on 
 In the project directory, you need to first watch for MockAPI server in one terminal:
 #### `json-server --watch ./src/testJSON.json --port 8000`
 
-Open another terminal and go to directory name userlist on your local machine.
-#### `cd userlist`
+Open another terminal and go to directory name userlist-new1 on your local machine.
+#### `cd userlist-new1`
 
 In the project directory of second terminal, you can run:
 #### `npm start`
