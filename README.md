@@ -8,7 +8,7 @@ You need to have nodejs installed on your machine. If you don’t, please go to 
 
 ## How to run the App
 Simply go to the directory name userlist on your local machine.
-#### `cd userlist`
+#### `cd userlist-new1`
 
 In the project directory, you need to first install npm and then json-server on one terminal:
 #### `npm install`
